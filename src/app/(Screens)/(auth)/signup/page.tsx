@@ -1,7 +1,7 @@
 "use client"
-import Button from '@/app/Components/CommonComponents/Buttons/Button'
-import FormCard from '@/app/Components/CommonComponents/FormCard'
-import InputField from '@/app/Components/CommonComponents/InputField'
+import Button from '@/Components/CommonComponents/Buttons/Button'
+import FormCard from '@/Components/CommonComponents/FormCard'
+import InputField from '@/Components/CommonComponents/InputField'
 import { Formik } from 'formik'
 import { FormContainer } from './style'
 import { validationSchema } from './schema'

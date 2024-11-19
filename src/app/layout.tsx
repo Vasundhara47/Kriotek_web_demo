@@ -2,9 +2,9 @@
 import { useRouter } from "next/router";
 import "./globals.css";
 import styled, { ThemeProvider } from "styled-components";
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import theme from "./Components/Styles";
+import Header from "../Components/Header";
+import Footer from "../Components/Footer";
+import theme from "../Components/Styles";
 import { createGlobalStyle } from "styled-components";
 import { usePathname } from "next/navigation";
 

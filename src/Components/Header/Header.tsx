@@ -16,7 +16,7 @@ import {
 import { useState } from "react";
 import Button from "../CommonComponents/Buttons/Button";
 import Image from "next/image";
-import LogoImg from "../../../../public/Images/logo.png"
+import LogoImg from "../../../public/Images/logo.png"
 import Navlinks from "../CommonComponents/Navlinks/navlinks";
 import Icon from "../CommonComponents/Icon/smallIcon";
 import Link from "next/link";

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import backgroundImage from "../../../../../public/Images/banner.jpg"
+import backgroundImage from "../../../../public/Images/banner.jpg"
 
 export const BannerContainer = styled.section`
   position: relative;

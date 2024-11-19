@@ -1,14 +1,14 @@
-import AboutImg from "../../../../public/Images/about.jpg"
+import CareerImg from "../../../public/Images/career.jpg"
 import SectionContainer from "../CommonComponents/SectionContainer/SectionContainer"
 
-export default function Aboutus() {
+export default function Career() {
 
     return (
-        <div id="aboutus">
+        <div id="career">
             <SectionContainer
-                image={AboutImg}
-                title="About us"
-                subtitle="Creative & Modern agency"
+                image={CareerImg}
+                title="career"
+                subtitle="Several Thigs Define Us As a Company"
                 description="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore maxime voluptatem neque in impedit porro beatae omnis repudiandae doloremque quo nesciunt aspernatur explicabo nam officia saepe eveniet consectetur animi, similique, atque laboriosam! Repellat dolorem ullam exercitationem officiis molestias est velit?. beatae omnis repudiandae doloremque quo nesciunt aspernatur explicabo."
                 align="left"
             />

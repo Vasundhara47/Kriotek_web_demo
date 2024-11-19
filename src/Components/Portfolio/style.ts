@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import PortfolioImg from "../../../../public/Images/portfolio.jpg"
+import PortfolioImg from "../../../public/Images/portfolio.jpg"
 import { motion } from "framer-motion";
 
 export const PortfolioContainer = styled.section`

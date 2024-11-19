@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { Form } from "formik";
-import ContactImg from "../../../../public/Images/contact.jpg"
+import ContactImg from "../../../public/Images/contact.jpg"
 import { motion } from "framer-motion";
 
 

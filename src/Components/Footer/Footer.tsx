@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from "../../../../public/Images/logo_white.png"
+import Logo from "../../../public/Images/logo_white.png"
 import Text from "../CommonComponents/Text"
 import {
     FooterBottomContainer,
